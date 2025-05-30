@@ -28,7 +28,7 @@ if "e" in com:
         import newvoicevoice  
 
 if "f" in com:
-	import learn
+	import Learn
 
 if "g" in com:
 	import virtual
