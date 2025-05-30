@@ -12,11 +12,11 @@ if "a" in com:
  
  
 if "b" in com:
-	import windows
+	import newvoicevoice
  
  
 if "c" in com:
-	import windows2
+	import pyttsxvoice
  
  
 if "d" in com:
