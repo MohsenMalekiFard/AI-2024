@@ -1,8 +1,10 @@
-print('a)Run G-one Androin')
-print('b)Run G-one Windows')
-print('c)Run G-one Windows2')
-print('d)Run Machine Learning')
-print('e)Run G-one orginall')
+print('a)Run G-one Android')
+print('b)Run G-one Type1')
+print('c)Run G-one Type2')
+print('d)Run G-one Voice1')
+print('e)Run G-one Voice2')
+print('f)Run Machine Learning')
+print('g)Run G-one orginall')
 
 
 com = input('Enter:')
@@ -12,15 +14,21 @@ if "a" in com:
  
  
 if "b" in com:
-	import newvoicevoice
+	import pyttsxtype
  
  
 if "c" in com:
-	import pyttsxvoice
+	import newvoicetype
  
  
 if "d" in com:
-    import Learn
+        import pyttsxvoice
     
 if "e" in com:
-    import virtual  
+        import newvoicevoice  
+
+if "f" in com:
+	import learn
+
+if "g" in com:
+	import virtual
